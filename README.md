@@ -2,7 +2,7 @@
 
 Python基础：<a href="https://yangkuii.github.io/gitweb/python_base/">https://yangkuii.github.io/gitweb/python_base/</a><br>
 爬虫资料：<a href="https://yangkuii.github.io/gitweb/spider/">https://yangkuii.github.io/gitweb/spider/</a><br>
-linux基础:<a href=""> https://yangkuii.github.io/gitweb/linux/</a><br>
+linux基础:<a href="https://yangkuii.github.io/gitweb/linux/</"> https://yangkuii.github.io/gitweb/linux/</a><br>
 前端：<a href="">https://yangkuii.github.io/gitweb/h5/</a><br>
 Django: <a href="https://yangkuii.github.io/gitweb/django/">https://yangkuii.github.io/gitweb/django/</a><br>
 Tornado: <a href="https://yangkuii.github.io/gitweb/tornado/">https://yangkuii.github.io/gitweb/tornado/</a><br>
